@@ -1,0 +1,9 @@
+.words{
+    font-size: 28px;
+}
+.cssWord{
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 5px;
+    border: 2px solid lightgray;
+}
